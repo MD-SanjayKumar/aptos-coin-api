@@ -1,0 +1,15 @@
+{
+  "name": "coinfetch",
+  "version": "1.0.0",
+  "description": "coin fetch demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aptos": "^1.7.2",
+    "express": "^4.18.2"
+  }
+}
